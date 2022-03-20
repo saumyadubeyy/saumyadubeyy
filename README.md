@@ -12,6 +12,8 @@
 
 - 🏡 Check out my most recent project <a href="https://saumyadubeyy.github.io/mausam">Mausam</a>.
 
+- 💁‍♀️ Download my <a href="https://drive.google.com/file/d/1cTTaKUaZT-9dUhcrB7RCiaApBcvJY8Ta/view?usp=sharing">Resume</a>
+
 
 ## 📫 Connect With Me
 
