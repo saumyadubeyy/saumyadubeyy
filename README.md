@@ -1,6 +1,6 @@
 ## Saumya Dubey&nbsp;<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-sunflower-farm-flaticons-flat-flat-icons-2.png" width="30px" height="30px"/>
 
-### Hello world&nbsp;👋
+### Hello world&nbsp; <img src="https://github.com/saumyadubeyy/saumyadubeyy/blob/main/Assets/Hi.gif" width="29px" />
 
 <p>
    I'm a ReactJS developer and have been working with it for over a year now. I have an eye for detail and love recreating designs in a pixel-perfect manner for my websites.
@@ -10,7 +10,7 @@
 
 - ✈️ Hire me for remote work & internships.
 
-- 🏡 Check out my most recent project <a href="https://saumyadubeyy.github.io/mausam">Mausam</a>
+- 🏡 Check out my most recent project <a href="https://saumyadubeyy.github.io/mausam">Mausam</a>.
 
 
 ## 📫 Connect With Me
