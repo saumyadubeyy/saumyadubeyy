@@ -1,10 +1,12 @@
-## Saumya Dubey&nbsp;<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-sunflower-farm-flaticons-flat-flat-icons-2.png" width="30px" height="30px"/>
+## Saumya Dubey&nbsp;<img src="https://github.com/saumyadubeyy/saumyadubeyy/blob/main/Assets/sunflower.png" width="30px" height="30px"/>
 
 ### Hello world&nbsp; <img src="https://github.com/saumyadubeyy/saumyadubeyy/blob/main/Assets/Hi.gif" width="29px" />
 
 <p>
    I'm a ReactJS developer and have been working with it for over a year now. I have an eye for detail and love recreating designs in a pixel-perfect manner for my websites.
 </p>
+
+<img src="https://github.com/saumyadubeyy/saumyadubeyy/blob/main/Assets/coder_girl.gif" align="right" height="140px" />
   
 - 🎓 Pre-final year software engineering student.
 
@@ -12,7 +14,7 @@
 
 - 🏡 Check out my most recent project <a href="https://saumyadubeyy.github.io/mausam">Mausam</a>.
 
-- 💁‍♀️ Download my <a href="https://drive.google.com/file/d/1cTTaKUaZT-9dUhcrB7RCiaApBcvJY8Ta/view?usp=sharing">Resume</a>
+- 💁‍♀️ Download my <a href="https://drive.google.com/file/d/1cTTaKUaZT-9dUhcrB7RCiaApBcvJY8Ta/view?usp=sharing">Resume</a>.
 
 
 ## 📫 Connect With Me
