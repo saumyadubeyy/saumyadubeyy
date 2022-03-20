@@ -1,16 +1,18 @@
 ## Saumya Dubey&nbsp;<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-sunflower-farm-flaticons-flat-flat-icons-2.png" width="30px" height="30px"/>
 
-### Hello world&nbsp;<img src="https://giphy.com/stickers/CalypsoDidIt-calypso-chahal-did-it-QOuEjHBfNboNLbqUqe" width="30px" height="30px" />
+### Hello world&nbsp👋
+
 <p>
-   <i>I'm a ReactJS developer and have been working with it for over a year now. I have an eye for detail and love recreating designs in a pixel-perfect manner for my websites. Check out my most recent project [Mausam](https://saumyadubeyy.github.io/mausam/)</i>
-  <br/>
+   <i>I'm a ReactJS developer and have been working with it for over a year now. I have an eye for detail and love recreating designs in a pixel-perfect manner for my websites. Check out my most recent project [mausam](https://saumyadubeyy.github.io/mausam)
+   </i>
+</p>
+  
 - 🎓 Pre-final year software engineering student.
 
 - ✈️ Hire me for remote work & internships.
 
 - 👨‍💻 Check out my projects [here](https://github.com/saumyadubeyy).
 
-</p>
 
 ## 📫 Connect With Me
 
@@ -31,6 +33,7 @@
 
 ## ⚡ SKILLS
 
+<p align="center">
 ![REACTJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,5 +43,4 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-
+</p>
