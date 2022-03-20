@@ -14,6 +14,7 @@
 
 - 💁‍♀️ Download my <a href="https://drive.google.com/file/d/1cTTaKUaZT-9dUhcrB7RCiaApBcvJY8Ta/view?usp=sharing">Resume</a>.
 
+<br/>
 <p align="center">
 <img src="https://github.com/saumyadubeyy/saumyadubeyy/blob/main/Assets/coder_girl.gif" height="200px" />
 </p>
@@ -35,7 +36,7 @@
   </a>
 </p>
 
-## ⚡ SKILLS
+## ⚡ Skillset
 
 <p align="center">
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px" />
