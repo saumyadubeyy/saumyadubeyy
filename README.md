@@ -3,15 +3,14 @@
 ### Hello world&nbsp👋
 
 <p>
-   <i>I'm a ReactJS developer and have been working with it for over a year now. I have an eye for detail and love recreating designs in a pixel-perfect manner for my websites. Check out my most recent project [mausam](https://saumyadubeyy.github.io/mausam)
-   </i>
+   I'm a ReactJS developer and have been working with it for over a year now. I have an eye for detail and love recreating designs in a pixel-perfect manner for my websites.
 </p>
   
 - 🎓 Pre-final year software engineering student.
 
 - ✈️ Hire me for remote work & internships.
 
-- 👨‍💻 Check out my projects [here](https://github.com/saumyadubeyy).
+- 🏡 Check out my most recent project <a href="https://saumyadubeyy.github.io/mausam">Mausam</a>
 
 
 ## 📫 Connect With Me
