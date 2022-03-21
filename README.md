@@ -3,7 +3,7 @@
 ### Hello world&nbsp; <img src="https://github.com/saumyadubeyy/saumyadubeyy/blob/main/Assets/Hi.gif" width="29px" />
 
 <p>
-   I'm a ReactJS developer and have been working with it for over a year now. I have an eye for detail and love recreating designs in a pixel-perfect manner for my websites.
+   I'm a ReactJS developer and have been working with it for over a year now. I love building responsive applications with reusable components, good practices and pixel-perfect designs.
 </p>
   
 - 🎓 Pre-final year software engineering student.
