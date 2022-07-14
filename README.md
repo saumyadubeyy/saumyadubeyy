@@ -12,7 +12,7 @@
 
 - 🏡 Check out my most recent project <a href="https://saumyadubeyy.github.io/mausam">Mausam</a>.
 
-- 💁‍♀️ Checkout my <a href="https://bit.ly/3y7jb2f">Resume</a>.
+- 💁‍♀️ Checkout my <a href="https://drive.google.com/file/d/1mAmSqd4ECg4nbjV4it7lSLhOjfZbeFJs/view?usp=sharing">Resume</a>.
 
 <br/>
 <p align="center">
