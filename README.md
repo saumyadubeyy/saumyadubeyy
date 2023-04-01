@@ -3,7 +3,7 @@
 ### Hello world&nbsp; <img src="https://github.com/saumyadubeyy/saumyadubeyy/blob/main/Assets/Hi.gif" width="29px" />
 
 <p>
-   I'm a frontend developer and have been working with ReactJS, NextJS for over a year now. I'm good at building responsive applications with reusable components, good practices and pixel-perfect designs.
+   I'm a frontend developer and have been working with ReactJS, NextJS for over a year now. I'm good at building responsive web applications with reusable components, good practices and pixel-perfect designs.
 </p>
   
 - 🎓 Final year software engineering student.
