@@ -3,16 +3,16 @@
 ### Hello world&nbsp; <img src="https://github.com/saumyadubeyy/saumyadubeyy/blob/main/Assets/Hi.gif" width="29px" />
 
 <p>
-   I'm a ReactJS developer and have been working with it for over a year now. I love building responsive applications with reusable components, good practices and pixel-perfect designs.
+   I'm a frontend developer and have been working with ReactJS, NextJS for over a year now. I love building responsive applications with reusable components, good practices and pixel-perfect designs.
 </p>
   
-- 🎓 Pre-final year software engineering student.
+- 🎓 Final year software engineering student.
 
 - ✈️ Hire me for remote work & internships.
 
 - 🏡 Check out my most recent project <a href="https://saumyadubeyy.github.io/mausam">Mausam</a>.
 
-- 💁‍♀️ Checkout my <a href="https://drive.google.com/file/d/1mAmSqd4ECg4nbjV4it7lSLhOjfZbeFJs/view?usp=sharing">Resume</a>.
+- 💁‍♀️ Checkout my <a href="https://drive.google.com/file/d/1YgOh8ByYYKgnqD3n9xicCZsemeLryY9U/view?usp=sharing">Resume</a>.
 
 <br/>
 <p align="center">
