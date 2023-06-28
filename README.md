@@ -6,7 +6,7 @@
    I'm a frontend engineer and have been working with startups for over a year now. I'm good with ReactJS, NextJS, TypeScript, JavaScript and building responsive web applications with reusable components, good practices and pixel-perfect designs.
 </p>
 
-- ✈️ Hire me for remote work & internships.
+- ✈️ Hire me to build products that users love!
 
 - 💁‍♀️ Checkout my <a href="https://drive.google.com/file/d/1YgOh8ByYYKgnqD3n9xicCZsemeLryY9U/view?usp=sharing">Resume</a>.
 
