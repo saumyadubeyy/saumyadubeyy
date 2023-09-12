@@ -3,12 +3,14 @@
 ### Hello world&nbsp; <img src="https://github.com/saumyadubeyy/saumyadubeyy/blob/main/Assets/Hi.gif" width="29px" />
 
 <p>
-   I'm a frontend engineer and have been working with startups for over a year now. I'm good with ReactJS, NextJS, TypeScript, JavaScript and building responsive web applications with reusable components, good practices and pixel-perfect designs.
+   I'm a frontend engineer and have been building and shipping products for startups for 1+ years now. Love to learn and grow, while building products that users love!
+   <br />
+   Tech Stack: Next.js, ReactJS, TypeScript, TailwindCSS, Cypress.
 </p>
 
-- ✈️ Hire me to build products that users love!
-
 - 💁‍♀️ Checkout my <a href="https://drive.google.com/file/d/1YgOh8ByYYKgnqD3n9xicCZsemeLryY9U/view?usp=sharing">Resume</a>.
+
+- 💼 Previously: Awen (Metaphi), Dashmed and Mauka.
 
 - 🏡 Check out my most recent project <a href="https://saumyadubeyy.github.io/mausam">Mausam</a>.
 
