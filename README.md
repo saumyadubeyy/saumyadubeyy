@@ -12,8 +12,6 @@
 
 - 💼 Previously: Awen (Metaphi), Dashmed and Mauka.
 
-- 🏡 Check out my most recent project <a href="https://saumyadubeyy.github.io/mausam">Mausam</a>.
-
 
 <br/>
 <p align="center">
