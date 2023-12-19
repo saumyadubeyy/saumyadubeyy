@@ -8,6 +8,8 @@
    Tech Stack: Next.js, ReactJS, TypeScript, TailwindCSS, Cypress.
 </p>
 
+- 💻 I built <a href="https://solitune.saumyadb.com/">Solitune</a> recently.
+
 - 💁‍♀️ Checkout my <a href="https://drive.google.com/file/d/1YgOh8ByYYKgnqD3n9xicCZsemeLryY9U/view?usp=sharing">Resume</a>.
 
 - 💼 Previously: Awen (Metaphi), Dashmed and Mauka.
