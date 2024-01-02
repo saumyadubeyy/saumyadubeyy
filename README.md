@@ -15,11 +15,6 @@
 - 💼 Previously: Awen (Metaphi), Dashmed and Mauka.
 
 
-<br/>
-<p align="center">
-<img src="https://github.com/saumyadubeyy/saumyadubeyy/blob/main/Assets/coder_girl.gif" height="200px" />
-</p>
-
 ## 📫 Connect With Me
 
 <p align="center">
